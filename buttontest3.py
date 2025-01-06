@@ -33,7 +33,7 @@ class MyWidget(QtWidgets.QWidget):
         header_layout = QtWidgets.QHBoxLayout(header_widget)
 
         # Company title
-        company_title_label = QtWidgets.QLabel("捷得立電子有限公司", self)
+        company_title_label = QtWidgets.QLabel("XXX電子有限公司", self)
         company_title_label.setStyleSheet('''
             font-size: 30px;
             background: green;
